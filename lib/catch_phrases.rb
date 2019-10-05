@@ -15,4 +15,4 @@ def any_phrase
     puts "Do A Barrel Roll!"
 end
 
-any_phrase(mario)
+any_phrase()
