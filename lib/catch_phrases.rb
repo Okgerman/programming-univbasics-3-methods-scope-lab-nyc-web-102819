@@ -12,6 +12,5 @@ def link
 end
 
 def any_phrase
-    status = 'Thank You Mario! But Our Princess Is In Another Castle!'
     puts "Do A Barrel Roll!"
 end
