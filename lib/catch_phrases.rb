@@ -12,7 +12,7 @@ def link
 end
 
 def any_phrase(string)
-    phrase = "Do A Barrel Roll!"
+    puts "Do A Barrel Roll!"
 end
 
 
